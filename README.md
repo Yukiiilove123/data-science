@@ -72,11 +72,11 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 
 ## Prerequisites
 
-The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability).
+The Data Science curriculum assumes the student has taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) and [statistics](https://www.khanacademy.org/math/probability). In Progress Currently starting from scratch to learn mathematic skills since I was quite poor in maths
 
 ## Curriculum
 
-- [Introduction to Data Science](#introduction-to-data-science)
+- [Introduction to Data Science](#introduction-to-data-science) in progress 
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
